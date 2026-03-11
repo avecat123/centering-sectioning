@@ -1,0 +1,34 @@
+body{
+font-family: 'Open Sans', sans-serif;
+margin:0;
+text-align:center;
+}
+
+header{
+background-color:#e8a6ef;
+}
+
+nav{
+background-color:#a3cbf0;
+}
+
+
+article{
+background-color:#d199e0;
+}
+
+section{
+background-color:#f5a6d2;
+}
+
+aside{
+background-color:#fff3cd;
+}
+
+footer{
+background-color:#e2b9d3;
+}
+
+html{
+    background-color: #e2b9d3;
+}
